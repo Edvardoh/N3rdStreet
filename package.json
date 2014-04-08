@@ -1,0 +1,15 @@
+{
+  "name": "N3rd_Street",
+  "version": "0.0.0",
+  "description": "N3rd Street mobile web app, developed using MEAN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ed Davis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~3.5.1",
+    "jade": "~1.3.1"
+  }
+}
